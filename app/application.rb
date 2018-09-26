@@ -9,5 +9,5 @@ class Application
       resp.write "Good Afternoon!"
       resp.finish
     end
-
+end
 end
